@@ -3,6 +3,7 @@ Reconocimiento de nuestro entorno y Armado de equipos con SCV
 
 # Laura Hernandez
 
+![IMG-20190308-WA0079](https://github.com/user-attachments/assets/f467bc82-ec25-4faf-97a4-2469a8798ed5)
 
 
 ## ¿Quién soy?
@@ -13,3 +14,5 @@ Ubicación: Lauro de freitas, Brasil
 Perfil: Mi nombre es Laura Hernandez, soy tecnóloga en producción multimedia, nací en Villavicencio, Meta, tengo 27 años. Me encanta el arte, especialmente la forma en que la creatividad, la inspiración y el ingenio pueden transmitir un concepto o contar una historia.
 
 Mi comida favorita es el Ajiaco Colombiano.
+
+![ColombianAjiaco](https://github.com/user-attachments/assets/94d08d5c-9964-453d-8cea-c37c41114845)
