@@ -3,8 +3,7 @@ Reconocimiento de nuestro entorno y Armado de equipos con SCV
 
 # Laura Hernandez
 
-![IMG-20190308-WA0079](https://github.com/user-attachments/assets/f467bc82-ec25-4faf-97a4-2469a8798ed5)
-
+![IMG-20190308-WA0079](https://github.com/user-attachments/assets/cec036da-0d43-4357-a83b-5b4dd8601b7b)
 
 ## ¿Quién soy?
 Rol: Diseñadora narrativa
